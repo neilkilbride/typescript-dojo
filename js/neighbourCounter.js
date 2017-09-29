@@ -1,4 +1,3 @@
-'user strict'
 function NeighbourCounter() {
     return {
         countNeighbours: function(cells) {
