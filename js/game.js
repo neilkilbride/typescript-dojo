@@ -16,8 +16,6 @@ function Game() {
                 }
             }
         
-            //cells[2][1].checked = true;
-
             var neighbourCountGrid = neighbourCounter.countNeighbours(cells);
 
             for(var row = 0; row < CELL_COUNT_X; row++) {
