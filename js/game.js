@@ -1,4 +1,3 @@
-'user strict'
 var CELL_COUNT_X = 3;
 var CELL_COUNT_Y = 3;
 
